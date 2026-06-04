@@ -7,4 +7,4 @@
 [![Balance Sheet]](https://github.com/Shahriar42069/Task-1-codeapha-powerbi/blob/2fc1334c46248d51b8ff0caa9ca5f28b3e1dc7fe/Screenshot%202026-06-04%20173217.png)
 
 ### 3. Cashflow Insight
-[![Cashflow]]()
+[![Cashflow]](https://github.com/Shahriar42069/Task-1-codeapha-powerbi/blob/e14b9e006c22a739dabd2223837c7f08540b9afb/Screenshot%202026-06-04%20173226.png)
